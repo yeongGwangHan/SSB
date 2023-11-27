@@ -1,0 +1,159 @@
+/* ================================== */
+
+* {
+  box-sizing: border-box;
+}
+
+.item_container {
+ width: 80%;
+ margin: 40px auto 80px auto;
+ padding-top: 160px;
+ display: flex;
+} 
+
+.first {
+  width: 50%;
+  margin-right: 5px;
+} 
+
+.second {
+  width: 50%;
+} 
+
+.left {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.title {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+
+#one img {
+  width: 95%;
+}
+
+.gray {
+  text-align: right;
+  color: gray;
+  font-size: 12px;
+  font-style: bold;
+}
+
+.name1 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.name2 {
+  font-size: 13px;
+  margin-top: 3px;
+  padding-bottom: 5px;
+}
+
+.detail1 {
+  padding-top: 17px;
+  border-top: 3px solid black;
+  font-size: 13px;
+  font-weight: bold;
+  padding-bottom: 30px;
+  border-bottom: 1px solid lightgray;
+  margin: 0;
+}
+
+.detail2 {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid lightgray;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0;
+}
+
+.detail2 span {
+  margin-left: 12px;
+  margin-right: 12px;
+  font-size: 17px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+.detail3 {
+  display: flex;
+  justify-content: space-between;
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0;
+}
+.boxone {
+  width: 50%;
+  border-right: 2px dotted gray;
+}
+.boxtwo {
+  width: 50%;
+}
+
+.detail3 ul {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 5px 10px 3px;
+  margin: 0 15px 0 15px;
+}
+
+.detail3 li {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.allegy {
+  display: flex;
+  background-color: rgb(243, 240, 240);
+  height: 45px;
+  align-items: center;
+  padding-left: 10px;
+  border-radius: 3px;
+  font-weight: bold;
+}
+.rev {
+  font-size: 20px;
+  font-weight: bold;
+  border-bottom: 1px solid lightgray;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+.iii {
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.mmm {
+  font-size: 13px;
+  margin-left: 5px;
+}
+
+.rev_c {
+  font-size: 13px;
+  font-weight: bold;
+  color: rgb(151, 143, 143);
+  background-color: rgb(243, 240, 240);
+  margin-top: 20px;
+  padding: 7px;
+  width: 100%;
+  border: 1px solid rgb(243, 240, 240);
+}
+
+.last {
+  display: flex;
+  background-color: rgb(44, 40, 40);
+  padding: 30px;
+  justify-content: space-around;
+  color: white;
+  font-size: 13px;
+  padding-top: 40px;
+} 
