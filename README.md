@@ -1,2 +1,2 @@
-# teamProject_advancement
-1차 프로젝트입니다
+# 1차 팀프로젝트 'SSB(Sports Style Box)'
+스포츠 용품 온라인 스토어
